@@ -1,8 +1,8 @@
 {
-  "name": "myhubot",
+  "name": "bot",
   "version": "0.0.0",
   "private": true,
-  "author": "sandeepjrs@gmil.com",
+  "author": "sandeepjrs@gmail.com",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.19.0",
